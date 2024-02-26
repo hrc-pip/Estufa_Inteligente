@@ -3,7 +3,7 @@ import RPi.GPIO as GPIO
 from datetime import datetime
 import cv2
 
-# IP da máquina do João
+# IP da máquina
 IP = "10.79.12.60"
 
 

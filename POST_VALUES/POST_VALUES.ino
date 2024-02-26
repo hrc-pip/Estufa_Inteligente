@@ -14,7 +14,7 @@ DHT dht(DHTPIN, DHTTYPE);  // Instanciar e declarar a class DHT
 
 char SSID[] = "labs_lca";
 char PASS_WIFI[] = "robot1cA!ESTG";
-// - mudar para o ip do João
+// - mudar para o ip da máquina
 char URL[] = "10.79.12.60";
 int PORTO = 80;
 WiFiClient clienteWifi;

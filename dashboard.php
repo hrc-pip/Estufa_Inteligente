@@ -13,9 +13,6 @@ if (!isset($_SESSION['username'])) {
 
 <?php
 
-/* TO DO 
-- 3 utilizadores com 3 privilégios diferentes.
-*/
 
 // receber os valores dos ficheiros dos sensores/atuadores
 
