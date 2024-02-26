@@ -1,0 +1,3 @@
+user;user;$2y$10$pKGa3EU377uT49HdbPyDzuJBe6LYsYvIsDATFKixsGrzSjmGBknzW
+moderador;mod;$2y$10$LibrzON6nadRd2WMb.OMFux9MVcn12r97ipOIWNycmAYC5Vw/8yqq
+admin;admin;$2y$10$UobUHX0Y/dacR/msQLuR7u8x4mGpkvmhcgh8KWB435rfPPF/LL7oi
